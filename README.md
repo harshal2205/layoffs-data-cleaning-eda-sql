@@ -38,6 +38,25 @@ The analysis explored:
 - Aggregate Functions
 - Subqueries
 
-## Key Outcome
+## Project Structure
 
-The project demonstrates a complete SQL workflow from raw data cleaning to business-focused exploratory analysis.
+text
+layoffs-data-cleaning-eda-sql/
+│
+├── layoffs_data_cleaning.sql    # Data cleaning queries
+├── layoffs_eda.sql             # Exploratory data analysis queries
+├── layoffs.csv                 # Dataset
+├── screenshots/
+│   ├── cleaning_results.png
+│   ├── eda_query_1.png
+│   └── eda_query_2.png
+│
+└── README.md
+
+
+## Key Insights
+
+- Identified companies with the highest number of layoffs.
+- Analyzed layoff trends across industries and countries.
+- Examined year-over-year and monthly workforce reduction patterns.
+- Highlighted sectors most affected during periods of economic uncertainty.
