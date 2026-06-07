@@ -40,7 +40,7 @@ The analysis explored:
 
 ## Project Structure
 
-text
+```text
 layoffs-data-cleaning-eda-sql/
 │
 ├── layoffs_data_cleaning.sql    # Data cleaning queries
@@ -52,6 +52,7 @@ layoffs-data-cleaning-eda-sql/
 │   └── eda_query_2.png
 │
 └── README.md
+```
 
 
 ## Key Insights
